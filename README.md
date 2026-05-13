@@ -13,7 +13,7 @@ Follow these steps to set up and run the project locally.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/arjit03/Assignment-project.git
+git clone https://github.com/arjit03/FloraVision.git
 ```
 
 ### 2️⃣ Navigate to the Project Directory
